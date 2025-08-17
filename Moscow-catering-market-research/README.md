@@ -51,7 +51,7 @@
 ## Использованные библиотеки
 
 - pandas
-- matplotlib.pyplot as plt
+- matplotlib
 - seaborn
-- phik.phik_matrix
+- phik
 - string
