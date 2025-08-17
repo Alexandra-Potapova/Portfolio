@@ -49,7 +49,7 @@
 
 - pandas
 - numpy
-- percentileofscore
+- scipy.stats
 - matplotlib
-- import
 - missingno
+- seaborn
